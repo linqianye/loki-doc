@@ -1,6 +1,6 @@
 # Loki文档
 
-![logo_and_name](image/logo_and_name.png)
+![logo_and_name](doc/image/logo_and_name.png)
 
 用于日志的 Prometheus！
 
